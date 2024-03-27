@@ -1,0 +1,6 @@
+export { UserMessage } from '@/common/messages/user.message'
+export { CategoryMessage } from '@/common/messages/category.message'
+export { TagMessage } from '@/common/messages/tag.message'
+export { ArticleMessage } from '@/common/messages/article.message'
+export { PageMessage } from '@/common/messages/page.message'
+export { FileMessage } from '@/common/messages/file.message'

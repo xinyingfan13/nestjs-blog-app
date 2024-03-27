@@ -1,0 +1,9 @@
+api/node_modules
+app/node_modules
+
+app/.next
+app/.app
+api/dist
+
+uploads
+.DS_Store
